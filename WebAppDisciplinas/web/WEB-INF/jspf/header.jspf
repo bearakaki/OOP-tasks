@@ -1,0 +1,5 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<h1>WebAppDisciplinas</h1>
+<h1><a href="index.jsp">Index</a></h1>
+<h1><a href="disciplinas.jsp">Disciplinas</a></h1>
